@@ -1,6 +1,11 @@
+import { Button } from 'react-bootstrap';
+
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
   margin: 20px;
+  background: #2F4F4F;
+  position: absolute;
+
 }
 
 ol, ul {
@@ -47,4 +52,8 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
+}
+
+.reset-button{
+
 }
